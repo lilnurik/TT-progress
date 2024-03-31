@@ -12,7 +12,7 @@ const SinglePost = () => {
 
   return (
     <>
-      <Head>
+      {/* <Head>
         <title>{post.title}</title>
       </Head>
       <section className='post-details bg-top'>
@@ -44,7 +44,7 @@ const SinglePost = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   )
 }

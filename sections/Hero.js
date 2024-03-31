@@ -46,10 +46,10 @@ T&T Progress - We make the education affordable' />
       <ShowCase />
       {/* <Brand /> */}
 
-      <div className='text-center'>
+      {/* <div className='text-center'>
         <Title title='Latest news & articles' />
       </div>
-      <BlogCard />
+      <BlogCard /> */}
     </>
   )
 }
